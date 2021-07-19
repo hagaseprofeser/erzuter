@@ -4,11 +4,11 @@
     "Mushoku Tensei"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1516992373545566",
-  "app_id": "ca-app-pub-1516992373545566~2627843127",
-  "admob_banner_id": "ca-app-pub-1516992373545566/9001679781",
-  "admob_interstitial_id": "ca-app-pub-1516992373545566/5812124256",
-  "admob_native_id": "ca-app-pub-1516992373545566/5062434772",
+  "pub_id": "pub-6231448703309615",
+  "app_id": "ca-app-pub-6231448703309615~7556952743",
+  "admob_banner_id": "ca-app-pub-6231448703309615/9718962099",
+  "admob_interstitial_id": "ca-app-pub-6231448703309615/4514736874",
+  "admob_native_id": "ca-app-pub-6231448703309615/7612986589",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -24,7 +24,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 15,
+  "interstitial_inverval": 8,
 
   "primary_ads": "ADMOB",
   "list_ads": [
