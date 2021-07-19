@@ -4,11 +4,11 @@
     "meliodas","ban"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1516992373545566",
-  "app_id": "ca-app-pub-1516992373545566~1078469063",
-  "admob_banner_id": "ca-app-pub-1516992373545566/2770539278",
-  "admob_interstitial_id": "ca-app-pub-1516992373545566/1601761981",
-  "admob_native_id": "ca-app-pub-1516992373545566/1457457602",
+  "pub_id": "pub-6231448703309615",
+  "app_id": "ca-app-pub-6231448703309615~6801154715",
+  "admob_banner_id": "ca-app-pub-6231448703309615/1146622916",
+  "admob_interstitial_id": "ca-app-pub-6231448703309615/4174991373",
+  "admob_native_id": "ca-app-pub-6231448703309615/4403535166",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -24,7 +24,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 15,
+  "interstitial_inverval": 8,
 
   "primary_ads": "ADMOB",
   "list_ads": [
