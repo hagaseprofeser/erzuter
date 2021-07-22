@@ -4,11 +4,11 @@
     "deku"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-6231448703309615",
-  "app_id": "ca-app-pub-6231448703309615~2270812954",
-  "admob_banner_id": "ca-app-pub-6231448703309615/9957731282",
-  "admob_interstitial_id": "ca-app-pub-6231448703309615/4649564283",
-  "admob_native_id": "ca-app-pub-6231448703309615/7331567947",
+  "pub_id": "pub-8456137446129873",
+  "app_id": "ca-app-pub-8456137446129873~7113351182",
+  "admob_banner_id": "ca-app-pub-8456137446129873/1921019669",
+  "admob_interstitial_id": "ca-app-pub-8456137446129873/7065535133",
+  "admob_native_id": "ca-app-pub-8456137446129873/4487187842",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -24,7 +24,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 12,
+  "interstitial_inverval": 8,
 
   "primary_ads": "ADMOB",
   "list_ads": [
