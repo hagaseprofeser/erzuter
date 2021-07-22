@@ -4,11 +4,11 @@
     "sakura"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-6231448703309615",
-  "app_id": "ca-app-pub-6231448703309615~7910631371",
-  "admob_banner_id": "ca-app-pub-6231448703309615/5284468031",
-  "admob_interstitial_id": "ca-app-pub-6231448703309615/9032141357",
-  "admob_native_id": "ca-app-pub-6231448703309615/1895408436",
+  "pub_id": "pub-8456137446129873",
+  "app_id": "ca-app-pub-8456137446129873~2587234079",
+  "admob_banner_id": "ca-app-pub-8456137446129873/1453830393",
+  "admob_interstitial_id": "ca-app-pub-8456137446129873/9140748722",
+  "admob_native_id": "ca-app-pub-8456137446129873/1681540031",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -24,7 +24,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 12,
+  "interstitial_inverval": 8,
 
   "primary_ads": "ADMOB",
   "list_ads": [
