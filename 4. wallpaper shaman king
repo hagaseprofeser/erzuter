@@ -4,11 +4,11 @@
     "shaman king"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-8456137446129873",
-  "app_id": "ca-app-pub-8456137446129873~7803901739",
-  "admob_banner_id": "ca-app-pub-8456137446129873/8034716460",
-  "admob_interstitial_id": "ca-app-pub-8456137446129873/7528569565",
-  "admob_native_id": "ca-app-pub-8456137446129873/5408553129",
+  "pub_id": "pub-6231448703309615",
+  "app_id": "ca-app-pub-6231448703309615~4155929637",
+  "admob_banner_id": "ca-app-pub-6231448703309615/4366563060",
+  "admob_interstitial_id": "ca-app-pub-6231448703309615/2842847965",
+  "admob_native_id": "ca-app-pub-6231448703309615/1529766295",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -24,7 +24,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 8,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
