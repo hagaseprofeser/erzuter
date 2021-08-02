@@ -4,11 +4,11 @@
     "sarada"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-8456137446129873",
-  "app_id": "ca-app-pub-8456137446129873~9476076058",
-  "admob_banner_id": "ca-app-pub-8456137446129873/5536831042",
-  "admob_interstitial_id": "ca-app-pub-8456137446129873/9344214111",
-  "admob_native_id": "ca-app-pub-8456137446129873/4630658076",
+  "pub_id": "pub-6231448703309615",
+  "app_id": "ca-app-pub-6231448703309615~6889000226",
+  "admob_banner_id": "ca-app-pub-6231448703309615/4262836889",
+  "admob_interstitial_id": "ca-app-pub-6231448703309615/2949755216",
+  "admob_native_id": "ca-app-pub-6231448703309615/9323591874",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -24,7 +24,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 8,
+  "interstitial_inverval": 4,
 
   "primary_ads": "ADMOB",
   "list_ads": [
