@@ -4,11 +4,11 @@
     "broly"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-8456137446129873",
-  "app_id": "ca-app-pub-8456137446129873~8761760181",
-  "admob_banner_id": "ca-app-pub-8456137446129873/8809576233",
-  "admob_interstitial_id": "ca-app-pub-8456137446129873/2164276837",
-  "admob_native_id": "ca-app-pub-8456137446129873/9851195164",
+  "pub_id": "pub-6231448703309615",
+  "app_id": "ca-app-pub-6231448703309615~3608478182",
+  "admob_banner_id": "ca-app-pub-6231448703309615/5798994424",
+  "admob_interstitial_id": "ca-app-pub-6231448703309615/3172831088",
+  "admob_native_id": "ca-app-pub-6231448703309615/1859749416",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -24,7 +24,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 8,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
