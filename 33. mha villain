@@ -4,11 +4,11 @@
     "MHA", "shigaraki", "toga", "dabi"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7659212157573907",
-  "app_id": "ca-app-pub-7659212157573907~3211316927",
-  "admob_banner_id": "ca-app-pub-7659212157573907/5579649331",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/8906496736",
-  "admob_native_id": "ca-app-pub-7659212157573907/2953485997",
+  "pub_id": "pub-1803954642035672",
+  "app_id": "ca-app-pub-1803954642035672~5917498594",
+  "admob_banner_id": "ca-app-pub-1803954642035672/9456933138",
+  "admob_interstitial_id": "ca-app-pub-1803954642035672/9369642534",
+  "admob_native_id": "ca-app-pub-1803954642035672/5861658270",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 11,
 
   "primary_ads": "ADMOB",
   "list_ads": [
