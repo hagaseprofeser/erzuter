@@ -4,11 +4,11 @@
     "zoro", "luffy", "sanji"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7216440358009235",
-  "app_id": "ca-app-pub-7216440358009235~6291849790",
-  "admob_banner_id": "ca-app-pub-7216440358009235/1722049399",
-  "admob_interstitial_id": "ca-app-pub-7216440358009235/4187951709",
-  "admob_native_id": "ca-app-pub-7216440358009235/5072275078",
+  "pub_id": "pub-1803954642035672",
+  "app_id": "ca-app-pub-1803954642035672~8447459019",
+  "admob_banner_id": "ca-app-pub-1803954642035672/7205679479",
+  "admob_interstitial_id": "ca-app-pub-1803954642035672/3837280107",
+  "admob_native_id": "ca-app-pub-1803954642035672/1211116762",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
