@@ -4,11 +4,11 @@
     "todoroki"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7216440358009235",
-  "app_id": "ca-app-pub-7216440358009235~4730861273",
-  "admob_banner_id": "ca-app-pub-7216440358009235/9420081177",
-  "admob_interstitial_id": "ca-app-pub-7216440358009235/2348240519",
-  "admob_native_id": "ca-app-pub-7216440358009235/1035158841",
+  "pub_id": "pub-1803954642035672",
+  "app_id": "ca-app-pub-1803954642035672~9484853297",
+  "admob_banner_id": "ca-app-pub-1803954642035672/8666595640",
+  "admob_interstitial_id": "ca-app-pub-1803954642035672/6040432300",
+  "admob_native_id": "ca-app-pub-1803954642035672/4727350633",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
