@@ -4,11 +4,11 @@
     "kurama"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7216440358009235",
-  "app_id": "ca-app-pub-7216440358009235~5793689175",
-  "admob_banner_id": "ca-app-pub-7216440358009235/3667053433",
-  "admob_interstitial_id": "ca-app-pub-7216440358009235/6803518516",
-  "admob_native_id": "ca-app-pub-7216440358009235/5490436849",
+  "pub_id": "pub-1803954642035672",
+  "app_id": "ca-app-pub-1803954642035672~5317882737",
+  "admob_banner_id": "ca-app-pub-1803954642035672/1099436129",
+  "admob_interstitial_id": "ca-app-pub-1803954642035672/2196895377",
+  "admob_native_id": "ca-app-pub-1803954642035672/7365461578",
 
   "admob_hpk_1": "mesothelioma claims process",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
