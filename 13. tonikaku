@@ -4,11 +4,11 @@
     "tonikaku"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7216440358009235",
-  "app_id": "ca-app-pub-7216440358009235~8536236730",
-  "admob_banner_id": "ca-app-pub-7216440358009235/5910073392",
-  "admob_interstitial_id": "ca-app-pub-7216440358009235/4596991726",
-  "admob_native_id": "ca-app-pub-7216440358009235/3985783483",
+  "pub_id": "pub-1803954642035672",
+  "app_id": "ca-app-pub-1803954642035672~8047987859",
+  "admob_banner_id": "ca-app-pub-1803954642035672/6403733694",
+  "admob_interstitial_id": "ca-app-pub-1803954642035672/1266957087",
+  "admob_native_id": "ca-app-pub-1803954642035672/8235690116",
 
  "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
