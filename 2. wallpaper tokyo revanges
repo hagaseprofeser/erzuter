@@ -5,11 +5,11 @@
     "tokyo revengers"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7216440358009235",
-  "app_id": "ca-app-pub-7216440358009235~6484788460",
-  "admob_banner_id": "ca-app-pub-7216440358009235/2046015855",
-  "admob_interstitial_id": "ca-app-pub-7216440358009235/1918023340",
-  "admob_native_id": "ca-app-pub-7216440358009235/3858625128",
+  "pub_id": "pub-1803954642035672",
+  "app_id": "ca-app-pub-1803954642035672~9776002499",
+  "admob_banner_id": "ca-app-pub-1803954642035672/7824626571",
+  "admob_interstitial_id": "ca-app-pub-1803954642035672/6264132895",
+  "admob_native_id": "ca-app-pub-1803954642035672/8869775628",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -48,7 +48,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
