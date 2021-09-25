@@ -4,11 +4,11 @@
     "hatake kakashi"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7216440358009235",
-  "app_id": "ca-app-pub-7216440358009235~5466741330",
-  "admob_banner_id": "ca-app-pub-7216440358009235/2114298616",
-  "admob_interstitial_id": "ca-app-pub-7216440358009235/8280606931",
-  "admob_native_id": "ca-app-pub-7216440358009235/5861971939",
+  "pub_id": "pub-1803954642035672",
+  "app_id": "ca-app-pub-1803954642035672~3266434466",
+  "admob_banner_id": "ca-app-pub-1803954642035672/8023937129",
+  "admob_interstitial_id": "ca-app-pub-1803954642035672/5254303552",
+  "admob_native_id": "ca-app-pub-1803954642035672/7532643229",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
