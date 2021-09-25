@@ -4,11 +4,11 @@
     "kumo desu ga nani ka"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-6231448703309615",
-  "app_id": "ca-app-pub-6231448703309615~9682399114",
-  "admob_banner_id": "ca-app-pub-6231448703309615/9822478844",
-  "admob_interstitial_id": "ca-app-pub-6231448703309615/7196315502",
-  "admob_native_id": "ca-app-pub-6231448703309615/9630907150",
+  "pub_id": "pub-1803954642035672",
+  "app_id": "ca-app-pub-1803954642035672~5900831502",
+  "admob_banner_id": "ca-app-pub-1803954642035672/7074312370",
+  "admob_interstitial_id": "ca-app-pub-1803954642035672/7366311631",
+  "admob_native_id": "ca-app-pub-1803954642035672/3274668162",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 11,
 
   "primary_ads": "ADMOB",
   "list_ads": [
