@@ -4,11 +4,11 @@
     "kaito kid"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1803954642035672",
-  "app_id": "ca-app-pub-1803954642035672~1961925802",
-  "admob_banner_id": "ca-app-pub-1803954642035672/1989506652",
-  "admob_interstitial_id": "ca-app-pub-1803954642035672/1623030369",
-  "admob_native_id": "ca-app-pub-1803954642035672/9648844131",
+  "pub_id": "pub-6231448703309615",
+  "app_id": "ca-app-pub-6231448703309615~7815069085",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-6231448703309615/7874752521",
+  "admob_native_id": "ca-app-pub-6231448703309615/1449795035",
 
  "admob_hpk_1": "mesothelioma claims process",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 3,
 
   "primary_ads": "ADMOB",
   "list_ads": [
