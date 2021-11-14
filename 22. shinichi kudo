@@ -4,11 +4,11 @@
     "conan"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1803954642035672",
-  "app_id": "ca-app-pub-1803954642035672~8159329188",
-  "admob_banner_id": "ca-app-pub-1803954642035672/1558601123",
-  "admob_interstitial_id": "ca-app-pub-1803954642035672/3673628574",
-  "admob_native_id": "ca-app-pub-1803954642035672/6958267465",
+  "pub_id": "pub-6231448703309615",
+  "app_id": "ca-app-pub-6231448703309615~5168724448",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-6231448703309615/7139738430",
+  "admob_native_id": "ca-app-pub-6231448703309615/4513575091",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 3,
 
   "primary_ads": "ADMOB",
   "list_ads": [
