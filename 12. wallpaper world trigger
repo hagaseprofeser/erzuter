@@ -4,11 +4,11 @@
     "world trigger"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1803954642035672",
-  "app_id": "ca-app-pub-1803954642035672~1534550392",
-  "admob_banner_id": "ca-app-pub-1803954642035672/7908387056",
-  "admob_interstitial_id": "ca-app-pub-1803954642035672/1733860948",
-  "admob_native_id": "ca-app-pub-1803954642035672/5282223714",
+  "pub_id": "pub-6490680957106031",
+  "app_id": "ca-app-pub-6490680957106031~4698359619",
+  "admob_banner_id": "ca-app-pub-6490680957106031/6768498496",
+  "admob_interstitial_id": "",
+  "admob_native_id": "ca-app-pub-6490680957106031/5597859388",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 8,
 
   "primary_ads": "ADMOB",
   "list_ads": [
