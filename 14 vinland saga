@@ -4,11 +4,11 @@
     "vinland saga"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1803954642035672",
-  "app_id": "ca-app-pub-1803954642035672~7449222055",
-  "admob_banner_id": "ca-app-pub-1803954642035672/3585998660",
-  "admob_interstitial_id": "ca-app-pub-1803954642035672/7748604959",
-  "admob_native_id": "ca-app-pub-1803954642035672/1570209412",
+  "pub_id": "pub-6490680957106031",
+  "app_id": "ca-app-pub-6490680957106031~1467042681",
+  "admob_banner_id": "ca-app-pub-6490680957106031/9153961019",
+  "admob_interstitial_id": "",
+  "admob_native_id": "ca-app-pub-6490680957106031/1880624583",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 8,
 
   "primary_ads": "ADMOB",
   "list_ads": [
