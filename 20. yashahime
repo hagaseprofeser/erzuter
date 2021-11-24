@@ -4,11 +4,11 @@
     "yashahime"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1803954642035672",
-  "app_id": "ca-app-pub-1803954642035672~9663982546",
-  "admob_banner_id": "ca-app-pub-1803954642035672/5880989515",
-  "admob_interstitial_id": "ca-app-pub-1803954642035672/9117526941",
-  "admob_native_id": "ca-app-pub-1803954642035672/1941744500",
+  "pub_id": "pub-6490680957106031",
+  "app_id": "ca-app-pub-6490680957106031~9003586078",
+  "admob_banner_id": "ca-app-pub-6490680957106031/6405342897",
+  "admob_interstitial_id": "",
+  "admob_native_id": "ca-app-pub-6490680957106031/7690504406",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 7,
 
   "primary_ads": "ADMOB",
   "list_ads": [
