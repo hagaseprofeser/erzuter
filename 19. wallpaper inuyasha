@@ -4,11 +4,11 @@
     "inuyasha"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-6231448703309615",
-  "app_id": "ca-app-pub-6231448703309615~5259938378",
-  "admob_banner_id": "ca-app-pub-6231448703309615/3889062010",
+  "pub_id": "pub-8406664928025822",
+  "app_id": "ca-app-pub-8406664928025822~8550317592",
+  "admob_banner_id": "ca-app-pub-8406664928025822/3297990914",
   "admob_interstitial_id": "",
-  "admob_native_id": "ca-app-pub-6231448703309615/6715192448",
+  "admob_native_id": "ca-app-pub-8406664928025822/7045664230",
 
   "admob_hpk_1": "mesothelioma claims process",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 7,
+  "interstitial_inverval": 8,
 
   "primary_ads": "ADMOB",
   "list_ads": [
