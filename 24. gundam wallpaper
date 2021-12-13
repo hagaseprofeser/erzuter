@@ -4,11 +4,11 @@
     "gundam"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-6490680957106031",
-  "app_id": "ca-app-pub-6490680957106031~8648362850",
-  "admob_banner_id": "ca-app-pub-6490680957106031/5994279357",
+  "pub_id": "pub-8406664928025822",
+  "app_id": "ca-app-pub-8406664928025822~3794305624",
+  "admob_banner_id": "ca-app-pub-8406664928025822/7541978946",
   "admob_interstitial_id": "",
-  "admob_native_id": "ca-app-pub-6490680957106031/7335281185",
+  "admob_native_id": "ca-app-pub-8406664928025822/3602733934",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 7,
+  "interstitial_inverval": 8,
 
   "primary_ads": "ADMOB",
   "list_ads": [
