@@ -4,11 +4,11 @@
     "tatsumaki"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1803954642035672",
-  "app_id": "ca-app-pub-1803954642035672~3597233226",
-  "admob_banner_id": "ca-app-pub-6231448703309615/5635342890",
-  "admob_interstitial_id": "ca-app-pub-1803954642035672/2284151557",
-  "admob_native_id": "ca-app-pub-1803954642035672/9971069885",
+  "pub_id": "pub-8406664928025822",
+  "app_id": "ca-app-pub-8406664928025822~7130915400",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "ca-app-pub-8406664928025822/1878588727",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -24,7 +24,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 7,
 
   "primary_ads": "ADMOB",
   "list_ads": [
