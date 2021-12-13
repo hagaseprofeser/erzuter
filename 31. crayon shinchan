@@ -4,11 +4,11 @@
     "shinchan"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-6240506323700429",
-  "app_id": "ca-app-pub-6240506323700429~6105214166",
+  "pub_id": "pub-8406664928025822",
+  "app_id": "ca-app-pub-8406664928025822~8051624141",
   "admob_banner_id": "",
-  "admob_interstitial_id": "ca-app-pub-6240506323700429/9796076961",
-  "admob_native_id": "ca-app-pub-6240506323700429/8482995291",
+  "admob_interstitial_id": "ca-app-pub-8406664928025822/2799297466",
+  "admob_native_id": "",
 
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 6,
 
   "primary_ads": "ADMOB",
   "list_ads": [
