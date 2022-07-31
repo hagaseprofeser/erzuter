@@ -7,7 +7,7 @@
   "pub_id": "pub-8406664928025822",
   "app_id": "ca-app-pub-8406664928025822~8027379893",
   "admob_banner_id": "ca-app-pub-8406664928025822/2775053214",
-  "admob_interstitial_id": "",
+  "admob_interstitial_id": "ca-app-pub-8406664928025822/7929288180",
   "admob_native_id": "ca-app-pub-8406664928025822/7835808201",
 
   "admob_hpk_1": "mesothelioma claims process ",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "204849564",
 
-  "interstitial_inverval": 7,
+  "interstitial_inverval": 3,
 
   "primary_ads": "ADMOB",
   "list_ads": [
